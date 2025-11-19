@@ -47,7 +47,7 @@ Chart.js visualizations
 
 📁 4. Data Handling
 
-CSV Dataset (from Kaggle – MOOC Data)
+CSV Dataset 
 
 Cleaned and processed using Pandas
 
@@ -105,7 +105,7 @@ MOOC-Prediction/
 │   ├── dashboard.html
 │   ├── about.html
 │   └── contact.html
-└── static/                     # CSS, JS, images
+                   
 
 🔮 How It Works
 
